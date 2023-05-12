@@ -14,4 +14,9 @@
 **void ChangeArray (string[] array )**
 4. Обьявляем новый одномерный массив строк:
  **string[] newArray = new string[array.Length];**
+5. Инициализируем индексы элементов, первоначального и нового массивов: 
+ **int Index = 0;**
+ **int newIndex =0;**
+6. Задаем цикл, где будем перебирать элеменеы первоначального массива: 
+for ( Index = 0; Index < array.Length; Index++)
  
