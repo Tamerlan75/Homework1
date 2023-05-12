@@ -4,9 +4,14 @@
 **string[] array = new string[] {"geek", "brains", "it", "!"};**
 
 2. Выводим данный массив:
-**Console.Write( array[0]+ " " );
-Console.Write( array[1]+ " " );
-Console.Write( array[2] );
-Console.Write( array[3]+ " " );
-Console.Write ("=>"+ " ");**
+**Console.Write( array[0]+ " " );**
+**Console.Write( array[1]+ " " );**
+**Console.Write( array[2] );**
+**Console.Write( array[3]+ " " );**
+**Console.Write ("=>"+ " ");**
 
+3. Задаем метод void:
+**void ChangeArray (string[] array )**
+4. Обьявляем новый одномерный массив строк:
+ **string[] newArray = new string[array.Length];**
+ 
