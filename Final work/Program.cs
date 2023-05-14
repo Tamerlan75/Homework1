@@ -11,5 +11,5 @@ void ChangeArray (string[] array )
   string[] newArray = new string[array.Length];
   int Index = 0;
   int newIndex =0;
-
+for ( Index = 0; Index < array.Length; Index++)
 }
