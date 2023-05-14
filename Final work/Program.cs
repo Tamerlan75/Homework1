@@ -7,3 +7,7 @@ Console.Write( array[3]+ " " );
 Console.Write ("=>"+ " ");
 
 void ChangeArray (string[] array )
+{
+  string[] newArray = new string[array.Length];
+  
+}
