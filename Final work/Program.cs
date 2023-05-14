@@ -15,7 +15,7 @@ for ( Index = 0; Index < array.Length; Index++)
 {
      if(array[Index].Length<=3)
           newArray[newIndex]= array[Index];
-
+     Console.Write( newArray[newIndex] );     
 }
 
 }
