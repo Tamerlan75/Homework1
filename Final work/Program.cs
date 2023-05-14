@@ -9,5 +9,7 @@ Console.Write ("=>"+ " ");
 void ChangeArray (string[] array )
 {
   string[] newArray = new string[array.Length];
-  
+  int Index = 0;
+  int newIndex =0;
+
 }
