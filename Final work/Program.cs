@@ -6,3 +6,4 @@ Console.Write( array[2] );
 Console.Write( array[3]+ " " );
 Console.Write ("=>"+ " ");
 
+void ChangeArray (string[] array )
